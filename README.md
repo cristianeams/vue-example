@@ -1,4 +1,6 @@
-# example
+#todoLIst
+
+A silly project to practice VueJS
 
 ## Project setup
 ```
